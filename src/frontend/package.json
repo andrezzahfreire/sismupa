@@ -1,0 +1,13 @@
+{
+    "name": "meu-projeto-frontend",
+    "version": "1.0.0",
+    "description": "Frontend do projeto",
+    "main": "index.js",
+    "scripts": {
+      "start": "live-server public"
+    },
+    "dependencies": {},
+    "devDependencies": {
+      "live-server": "^1.2.1"
+    }
+  }
